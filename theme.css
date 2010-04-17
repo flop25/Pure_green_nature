@@ -27,6 +27,9 @@ BODY {
 H2, #imageToolBar A:hover, .row1 , H3{
 background-color: #76964B;
 }
+#theImage P {
+	color:#030;
+}
 #imageHeaderBar {
 	background-image: url(images/endsection_backg.jpg);
 	background-position:top;
@@ -198,7 +201,7 @@ FIELDSET, INPUT, SELECT, TEXTAREA,
 #content UL.thumbnailCategories DIV.thumbnailCategory:hover A {
   background-color: #91B165;
   border-color: #aacb87;		/* thumbnails border color when mouse cursor is over it */
-  color: #5A7755;
+  color: #003300;
 }
 
 /* links */
@@ -234,7 +237,7 @@ color:#858460;
 color:#858460;
 }
 .infoTable, #rateForm, .infoTable a, .commentInfo{
-color:#006600;
+color:#003300;
 }
 .filter {
 	background-color:#76964B;
