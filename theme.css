@@ -24,7 +24,7 @@ BODY {
   background-color: #aacb87;	
 }
 
-H2, #imageToolBar A:hover, .row1 , H3{
+H2, #imageToolBar A:hover, .row1 {
 background-color: #76964B;
 }
 #theImage P {
