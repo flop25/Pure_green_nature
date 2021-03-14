@@ -25,16 +25,17 @@ BODY {
 }
 
 H2, #imageToolBar A:hover, .row1 {
-background-color: #76964B;
+background-color: #788D48;
 }
 #theImage P {
 	color:#030;
 }
+/*
 #imageHeaderBar {
 	background-image: url(images/endsection_backg.jpg);
 	background-position:top;
 	background-repeat:repeat-x;
-	background-color: #76964B;
+	background-color: #788D48;
 	padding-top: 5px;
 }
 #imageToolBar {
@@ -43,25 +44,26 @@ background-color: #76964B;
  background-repeat:repeat-x;
  padding-bottom:5px;
 }
+*/
 .throw
 {
 background-color: #006600;
 }
 #section_in, #section_right, #imageToolBar, #admin_content {
-  background-color: #76964B;
+  background-color: #788D48;
 }
 .header_notes, .content,  #autre_content {
-  background-color: #76964B;
+  background-color: #788D48;
 }
 #profile{
-background-color:#76964B
+background-color:#788D48
 }
 #comments .description {
-  background-color: #76964B;
+  background-color: #788D48;
   color:#003300;
 }
 #comments  {
-  background-color: #76964B;
+  background-color: #788D48;
   color:#003300;
 }
 
@@ -186,10 +188,10 @@ FIELDSET, INPUT, SELECT, TEXTAREA,
 
 #comments DIV.comment BLOCKQUOTE {
   border-left: 2px solid #696969;
-  background-color: #76964B;
+  background-color: #788D48;
 }
 .comment
-{  background-color: #76964B;}
+{  background-color: #788D48;}
 
 #content UL.thumbnails SPAN.wrap2 {
   border: 1px solid #aacb87;	/* thumbnails border color and style */
@@ -240,12 +242,12 @@ color:#858460;
 color:#003300;
 }
 .filter {
-	background-color:#76964B;
+	background-color:#788D48;
 }
 /*.filter LEGEND, .filter LABEL{
 	font-weight: bold;
 	color:#003300;
-	background-color:#76964B;
+	background-color:#788D48;
 }
 calendar elements*/
 SPAN.calItemEmpty { color: silver; }
